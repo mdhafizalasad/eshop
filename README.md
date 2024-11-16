@@ -3,8 +3,8 @@
 ## Project Overview
 - **Description**: An e-commerce platform that allows users to browse products, add them to the cart, and complete the checkout process.
 - **Technologies Used**: React, Tailwind CSS, Firebase, React Router
-- **Demo**: [Link to live demo] ([https://mern242-1-33daa.web.app/login])
-
+- **Demo**: [Link to live demo] (https://mern242-1-33daa.web.app/login)
+- [Live Link firebase](https://mern242-1-33daa.web.app/login)
 ## Features
 - **User Authentication**: Secure login via email/password, Google, or GitHub.
 - **Product Catalog**: Display products with images, prices, and descriptions.
