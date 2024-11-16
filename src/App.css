@@ -1,0 +1,31 @@
+/* app.css */
+
+/* Apply Tailwind styles globally */
+html, body, * {
+    @apply scrollbar scrollbar-thumb-primary scrollbar-track-gray-300 scrollbar-thin;
+}
+  
+  /* Webkit browsers (Chrome, Safari, Edge) */
+  ::-webkit-scrollbar {
+    width: 12px; /* Adjust width as needed */
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: #e0e0e0; /* Light gray for the track */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #3490dc; /* Primary color */
+    border-radius: 6px; /* Round corners */
+    border: 3px solid #e0e0e0; /* Space around thumb to match the track */
+  }
+  
+  /* Firefox scrollbar styling */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #3490dc #e0e0e0; /* Primary color and light gray track */
+  }
+  
+
+
+  
