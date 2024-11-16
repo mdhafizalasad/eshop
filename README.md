@@ -4,6 +4,7 @@
 - **Description**: An e-commerce platform that allows users to browse products, add them to the cart, and complete the checkout process.
 - **Technologies Used**: React, Tailwind CSS, Firebase, React Router
 - **Demo**:
+
 - [Link to live demo] (https://mern242-1-33daa.web.app/login)
 
 ## Features
